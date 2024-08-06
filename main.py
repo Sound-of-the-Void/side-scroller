@@ -38,7 +38,7 @@ player_y = 265
 jump = False
 jump_count = 11.5
 
-background_sound = pg.mixer.Sound('sounds//back.mp3')
+background_sound = pg.mixer.Sound('write the name of the track from folder sound') 
 background_sound.play()
 
 devil_respawn = pg.USEREVENT + 1
